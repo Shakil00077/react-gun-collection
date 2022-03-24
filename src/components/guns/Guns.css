@@ -1,0 +1,7 @@
+.guns-components{
+    margin-top: 50px;
+    margin-left: 80px;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(3, 1fr);
+}

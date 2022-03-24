@@ -1,0 +1,11 @@
+.gun img{
+    width: 250px;
+}
+.gun{
+    width: 300px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-top: 20px;
+    margin-bottom: 40px;
+}
